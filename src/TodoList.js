@@ -31,8 +31,8 @@ function App() {
   };
 
   return (
-    <div>
-        <h1>TodoList App</h1>
+    <div style={{margin:"50px",}} >
+        <h1 style={{borderBottom:"black 1px solid", width:"fit-content", margin:"0 auto", color:"#212121", padding:"10px 0"}} >TodoList App</h1>
             <div className='parent' >
                 <div className='inputs' >
                     <div style={{display:"flex",flexDirection:"column", gap:"8px",}}>
