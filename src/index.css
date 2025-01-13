@@ -12,7 +12,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #1e1e1e;
+  background-color: #ECB176;
   color: white;
 }
 
@@ -21,12 +21,12 @@ code {
     monospace;
 }
 .parent{
-  width: 60%;
+  width: 70%;
   height: auto;
   padding: 20px;
   display: flex;
   flex-direction: column;
-  background-color: #343434;
+  background-color: #E16A54;
   margin: 50px auto;
 }
 .inputs{
